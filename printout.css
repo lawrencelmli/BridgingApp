@@ -1,0 +1,58 @@
+h1{
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: bold;
+	font-size: 16px;
+	text-align: center;
+	padding-bottom: 10px;
+}
+h2 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	text-align: center;
+}
+h3 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: left;
+   
+}
+
+h4{
+	
+    font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	text-align: left;
+   
+}
+
+h6{
+	
+    font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	text-align: left;
+   
+}
+div.level3{
+	margin: 25px
+}
+p {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 12px;
+	text-align: left;
+}
+
+.table{
+	margin: 2px;
+	padding: 0px;
+}
+tbody {
+    font-family: Verdana, Geneva, sans-serif;
+	color: #002A86;
+	font-size: 12px;
+    
+}
+
+
+
+
